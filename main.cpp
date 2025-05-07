@@ -1,6 +1,6 @@
 
-#include "TelCoColorCoder.h"
-#include "ColorPair.h"
+#include "TelCoColorCoder.hpp"
+#include "ColorPair.hpp"
 #include <assert.h>
 #include <iostream>
 

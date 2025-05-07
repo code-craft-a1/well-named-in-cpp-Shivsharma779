@@ -1,7 +1,7 @@
 #ifndef COLORPAIR_H_
 #define COLORPAIR_H_
 
-#include "TelCoColorCoder.h"
+#include "TelCoColorCoder.hpp"
 #include <iostream>
 #include <string>
 
