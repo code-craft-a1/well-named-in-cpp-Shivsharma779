@@ -1,5 +1,5 @@
-#include "ColorPair.hpp"
-#include "TelCoColorCoder.hpp"
+#include "./ColorPair.hpp"
+#include "./TelCoColorCoder.hpp"
 
 namespace TelCoColorCoder {
 const char* MajorColorNames[] = {"White", "Red", "Black", "Yellow", "Violet"};

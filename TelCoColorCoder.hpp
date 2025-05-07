@@ -1,5 +1,5 @@
-#ifndef TELCOCOLORCODER_H_
-#define TELCOCOLORCODER_H_
+#ifndef TELCOCOLORCODER_HPP_
+#define TELCOCOLORCODER_HPP_
 
 namespace TelCoColorCoder {
 enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
@@ -17,4 +17,4 @@ ColorPair GetColorFromPairNumber(int pairNumber);
 int GetPairNumberFromColor(MajorColor major, MinorColor minor);
 }  // namespace TelCoColorCoder
 
-#endif  // TELCOCOLORCODER_H_
+#endif  // TELCOCOLORCODER_HPP_

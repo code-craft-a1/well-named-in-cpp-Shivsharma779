@@ -1,8 +1,7 @@
-
-#include "TelCoColorCoder.hpp"
-#include "ColorPair.hpp"
 #include <assert.h>
 #include <iostream>
+#include "./TelCoColorCoder.hpp"
+#include "./ColorPair.hpp"
 
 void testNumberToPair(int pairNumber,
     TelCoColorCoder::MajorColor expectedMajor,

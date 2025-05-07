@@ -1,9 +1,9 @@
-#ifndef COLORPAIR_H_
-#define COLORPAIR_H_
+#ifndef COLORPAIR_HPP_
+#define COLORPAIR_HPP_
 
-#include "TelCoColorCoder.hpp"
 #include <iostream>
 #include <string>
+#include "./TelCoColorCoder.hpp"
 
 namespace TelCoColorCoder {
 class ColorPair {
@@ -19,4 +19,4 @@ class ColorPair {
 };
 }  // namespace TelCoColorCoder
 
-#endif  // COLORPAIR_H_
+#endif  // COLORPAIR_HPP_
